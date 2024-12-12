@@ -4,7 +4,7 @@ pipeline {
 
    tools{
 
-       maven 'maven88'
+       maven 'Maven88'
 
    }
 
